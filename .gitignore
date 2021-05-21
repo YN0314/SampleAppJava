@@ -1,3 +1,4 @@
 .env
 tomcat/logs/*
 *.class
+tomcat/webapp/*
